@@ -33,4 +33,4 @@ A comprehensive analysis of the dataset, graphical representations of correlatio
 ## Authors
 Undergraduate students, Signals and Systems department:
 * Rastko Lazarević (2023/0016)
-* Djordje Ristic (2023/0064)
+* Đorđe Ristić (2023/0064)
