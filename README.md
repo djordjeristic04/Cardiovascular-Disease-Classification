@@ -24,6 +24,10 @@ Three classification models were evaluated using Python and scikit-learn to solv
 2. **Non-parametric Classification (Decision Tree):** The maximum depth was optimized to 5 levels through 5-fold cross-validation, which successfully preserved the interpretability of the decision rules.
 3. **Neural Networks (MLPClassifier):** Implemented with an architecture consisting of two hidden layers (16 and 8 neurons). The model was safeguarded against overfitting by applying early stopping and L2 regularization techniques.
 
+## How to Run
+
+Clone the repository using `git clone https://github.com/djordjeristic04/Cardiovascular-Disease-Classification.git`, navigate into the project folder with `cd Cardiovascular-Disease-Classification`, install the required dependencies with `pip install -r requirements.txt`, and then open `Projekat.ipynb` in Jupyter Notebook or JupyterLab by running `jupyter notebook Projekat.ipynb` to execute all cells.
+
 ## Results
 A comparative analysis showed that all three applied methods converged to a similar accuracy range of 72% to 73%. These results indicate that the performance ceiling for this specific feature set has been reached. The limiting factor is the informational value of the clinical data itself, rather than the capacity or complexity of the classification algorithms.
 
