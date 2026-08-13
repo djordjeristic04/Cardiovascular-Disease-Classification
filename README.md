@@ -6,7 +6,7 @@ This repository contains an applied artificial intelligence project focused on t
 Timely prediction is of exceptional clinical importance, as it provides an opportunity for early prevention based on basic demographic and physiological factors.
 
 ## Dataset
-The models were trained using the *Cardiovascular Disease Dataset* from Kaggle.
+The dataset used in this project is available on [Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset).
 * **Dataset Size:** The original dataset comprises 70,000 patient records.
 * **Features:** The dataset contains 13 features, including continuous variables (age, height, weight, systolic and diastolic blood pressure) and categorical/binary indicators (gender, cholesterol and glucose levels, smoking, alcohol consumption, physical activity).
 * **Target Variable:** Binary classification indicating the presence (`1`) or absence (`0`) of cardiovascular disease.
